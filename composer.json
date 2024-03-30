@@ -28,7 +28,7 @@
     "php": "^8.0",
     "area17/twill": "dev-laravel-11-support",
     "illuminate/support": "^11.0.3",
-    "laravel-json-api/laravel": "dev-laravel11",
+    "laravel-json-api/laravel": "^4",
     "spatie/laravel-package-tools": "^1.11"
   },
   "require-dev": {
